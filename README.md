@@ -51,12 +51,11 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 #### USBキーボード
 基板上の二色のLEDが[Num lock][Caps lock]の状態を示します。また、スイッチを外付けすると[ENTER]キーとして動作します。
 
+### [サンプルソースはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/tree/master/Sample)  
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Manual/AD00008_manual.pdf)
+### [マニュアル](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Manual/AD00008_manual.pdf)
 
-## [Q&A](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/FAQ.md)
-
-### [サンプルコードはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/tree/master/Sample)  
+### [Q&A](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/FAQ.md)
 
 ### [外形図](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Dimensions/AD00008_dimensions.pdf)
 
