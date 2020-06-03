@@ -62,7 +62,7 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 
 ### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
 
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+### [部品表](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Partslist/AD00008_bom.pdf)
 
 
 ## 作例
