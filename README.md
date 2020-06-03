@@ -23,8 +23,10 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 本製品にはUSB経由でファームウェアを書き換える事が出来るブートローダが予め書き込まれています。  
 その為、WindowsソフトからUSB経由でファームウェアの書き換えを行う事が出来ます。（USBケーブルは別売です）  
 
-![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/MPLAB-PIC-Microchip-Software.png)
-マイコンメーカーから配布されている無料の開発キットですぐに開発可能です
+|![画像が読めない時に表示されるテキスト](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/MPLAB-PIC-Microchip-Software.png)|
+|:---:|
+|マイコンメーカーから配布されている無料の開発キットですぐに開発可能です|
+
 
 
 
