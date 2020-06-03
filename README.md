@@ -52,7 +52,7 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 基板上の二色のLEDが[Num lock][Caps lock]の状態を示します。また、スイッチを外付けすると[ENTER]キーとして動作します。
 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [マニュアルはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Manual/AD00008_manual.pdf)
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 
