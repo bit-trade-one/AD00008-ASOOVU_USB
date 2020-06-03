@@ -54,7 +54,7 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 
 ## [マニュアルはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Manual/AD00008_manual.pdf)
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/FAQ.md)
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/tree/master/Sample)  
 
@@ -64,19 +64,13 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 
 ### [部品表](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Partslist/AD00008_bom.pdf)
 
-
 ## 作例
 
 ## 雑誌掲載情報
 
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
+    【対応OS】Windows10/Windows 7 / Vista / XP
+    【サイズ】20mm×58mm
+    【コネクタ】USBミニB
+    【LED点数】2(青／赤)
     【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
