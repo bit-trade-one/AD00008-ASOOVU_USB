@@ -15,5 +15,5 @@
 ### 【USBマウス】 [解説](https://docs.google.com/document/pub?id=1vPas-syn5Aqz_FVVrc-5u0U-c1ULsKPeIWZIdGsym6s)　[ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/mouse_ver001.zip)
 59秒に一回カーソルをほんの僅かだけ動かし、スクリーンセイバに入らないようにするソフトです。動作は2/1000秒で完了し、カーソルは元の位置に戻るので通常作業の妨げになりません。
 
-### 【USBジョイパッド】 [解説](https://docs.google.com/document/pub?id=15ngWx5A6YCGLOZPlQbBnSDiMSc_AABRTSlXW-uY2eRg)　[ファームウェア]()
+### 【USBジョイパッド】 [解説](https://docs.google.com/document/pub?id=15ngWx5A6YCGLOZPlQbBnSDiMSc_AABRTSlXW-uY2eRg)　[ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/joystick_ver001.zip)
 外付けしたボタンを押すと、ある一定のコマンドを入力します。1/60秒毎に正確な操作を行います。
