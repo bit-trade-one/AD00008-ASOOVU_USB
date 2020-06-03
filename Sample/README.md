@@ -9,7 +9,7 @@
 ### 【USBキーボード】 [解説](https://docs.google.com/document/pub?id=1E5OQSZ7tO-MZQtkXz3m-uAVNXNwdJy9zUViEz_Xo8ik)　[ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/keyboard_ver001.zip)
 基板上の二色のLEDが[Num lock][Caps lock]の状態を示します。また、スイッチを外付けすると[ENTER]キーとして動作します。
 
-### 【USBキーボード・その2】 [ファームウェア]()
+### 【USBキーボード・その2】 [ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/keyboard_ver002.zip)
 スイッチを押すと、キーを順番に入力するキーボードマクロです。サンプルでは、スイッチを押すと「hoge」と言う文字列が入力されます。
 
 ### 【USBマウス】 [解説](https://docs.google.com/document/pub?id=1vPas-syn5Aqz_FVVrc-5u0U-c1ULsKPeIWZIdGsym6s)　[ファームウェア]()
