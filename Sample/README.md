@@ -6,7 +6,7 @@
 ### 【スケルトン(LED点滅)】[解説](https://docs.google.com/document/pub?id=102i-b4dFv90b5u0CqhJfkPUIRUrx-qnzwE634uWF4dY)　[ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/skelton_ver002.zip)  
 基板上の二色のLEDが交互に点滅します。
 
-【LEDイルミネーション】[解説]　[ファームウェア]
+### 【LEDイルミネーション】[解説](https://docs.google.com/document/pub?id=1YpgiufRyX9JnyNcom17tvb9p60hTWUNOXPpBPnm5PRg)　[ファームウェア]()
 基板上の二色のLEDが徐々に明るさを変えていきます。
 
 【USBキーボード】 [解説]　[ファームウェア]
