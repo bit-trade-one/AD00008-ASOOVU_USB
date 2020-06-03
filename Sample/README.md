@@ -3,8 +3,8 @@
 
 ## サンプルソース
 
-### 【スケルトン(LED点滅)】
-[解説](https://docs.google.com/document/pub?id=102i-b4dFv90b5u0CqhJfkPUIRUrx-qnzwE634uWF4dY)　[ファームウェア]()  
+### 【スケルトン(LED点滅)】  
+[解説](https://docs.google.com/document/pub?id=102i-b4dFv90b5u0CqhJfkPUIRUrx-qnzwE634uWF4dY)　[ファームウェア](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/skelton_ver002.zip)  
 基板上の二色のLEDが交互に点滅します。
 
 【LEDイルミネーション】[解説]　[ファームウェア]
