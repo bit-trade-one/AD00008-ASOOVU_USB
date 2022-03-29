@@ -19,3 +19,7 @@
 外付けしたボタンを押すと、ある一定のコマンドを入力します。1/60秒毎に正確な操作を行います。
 
 ## ファームウェア書き換えソフト　[圧縮ファイル](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/HIDBootLoader.zip)
+
+## 出荷時Hex
+
+[Hex](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Sample/mouse_ver001.zip)
