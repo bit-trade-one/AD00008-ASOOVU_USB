@@ -55,6 +55,8 @@ USB経由でファームウェアを書き換えられるWindowsソフトを用�
 
 ### [マニュアル](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Manual/AD00008_manual.pdf)
 
+### [開発環境インストール方法](https://docs.google.com/document/d/1Y47owx3SEJ2QxGs0Rm5nPiVzyFwCdwRQvMxzG4KG2SQ/edit)
+
 ### [Q&A](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/FAQ.md)
 
 ### [外形図](https://github.com/bit-trade-one/AD00008-ASOOVU_USB/blob/master/Dimensions/AD00008_dimensions.pdf)
